@@ -3,7 +3,6 @@ body{
     background-size: 100%;
     background-attachment: fixed;
     background-image: url("https://media.mineralauctions.com/391521/980001c.jpg")
-    
 }
 
 body {
@@ -12,7 +11,7 @@ body {
 
 div {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 675px;
+    margin-left: 500px;
  }
 
  button{
